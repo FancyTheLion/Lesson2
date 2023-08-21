@@ -1,21 +1,16 @@
 ﻿using AnimalsApp.Abstractions;
 using AnimalsApp.Enumerations;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AnimalsApp.Concrete
 {
-    public class Tiger : Mammal, IAnimalsWithStripes
+    public class Zebra : Mammal, IAnimalsWithStripes
     {
         /// <summary>
-        /// Количество полосок у тигра
+        /// Количество полосок у зебры
         /// </summary>
         private int _stripesCount { get; set; }
 
-        public Tiger
+        public Zebra
         (
             string name,
             Sex sex,
@@ -28,12 +23,12 @@ namespace AnimalsApp.Concrete
 
         public override void Introduce()
         {
-            Console.WriteLine($"Я - тигр. Меня зовут {Name}");
+            Console.WriteLine($"Я - зебра. Меня зовут {Name}");
         }
 
         public void TellAboutStripse()
         {
-            Console.WriteLine($"Я полосатый тигр. На мне { _stripesCount } полосок");
+            Console.WriteLine($"Я полосатая зебра. На мне {_stripesCount} полосок");
         }
     }
 }

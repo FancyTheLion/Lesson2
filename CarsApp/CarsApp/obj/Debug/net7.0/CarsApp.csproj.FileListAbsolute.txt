@@ -1,0 +1,14 @@
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\bin\Debug\net7.0\CarsApp.exe
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\bin\Debug\net7.0\CarsApp.deps.json
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\bin\Debug\net7.0\CarsApp.runtimeconfig.json
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\bin\Debug\net7.0\CarsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\bin\Debug\net7.0\CarsApp.pdb
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.AssemblyInfoInputs.cache
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.AssemblyInfo.cs
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.csproj.CoreCompileInputs.cache
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\refint\CarsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.pdb
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\CarsApp.genruntimeconfig.cache
+C:\Users\Fancy\Lessons\Lesson2\CarsApp\CarsApp\obj\Debug\net7.0\ref\CarsApp.dll

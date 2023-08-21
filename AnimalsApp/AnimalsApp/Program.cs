@@ -19,11 +19,21 @@ namespace AnimalsApp
             mammal1.Yiff(mammal2); // Тот объект, по которому вызывается метод, становится доступным
              в переменной this внутри метода*/
 
-            IMammal fanci = new Lion("Фанси", Sex.Male, Orientation.Gay, ManeColor.White);
+            Lion fanci = new Lion("Фанси", Sex.Male, Orientation.Gay, ManeColor.White);
 
-            IMammal ulus = new Tiger("Юлус", Sex.Male, Orientation.Straight, 150);
+            Tiger ulus = new Tiger("Юлус", Sex.Male, Orientation.Straight, 150);
 
-            fanci.Yiff(ulus);
+            Zebra sera = new Zebra("Сера", Sex.Female, Orientation.Straight, 250);
+
+            // Проверяем всех зверей на полосатость
+            Console.WriteLine($"Фанси - полосат? { fanci is IAnimalsWithStripes }");
+            Console.WriteLine($"Улус - полосат? {ulus is IAnimalsWithStripes}");
+            Console.WriteLine($"Сера - полосата? {sera is IAnimalsWithStripes}");
+
+            IAnimalsWithStripes stripedAnimal1 = ulus as IAnimalsWithStripes;
+            stripedAnimal1.TellAboutStripse();
+
+            //            fanci.Yiff(ulus);
 
 
             WaitForExit();

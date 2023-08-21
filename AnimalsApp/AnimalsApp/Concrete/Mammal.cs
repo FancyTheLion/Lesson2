@@ -53,7 +53,7 @@ namespace AnimalsApp.Concrete
             Console.WriteLine($"Я - млекопитающее. Меня зовут { Name }");
         }
 
-        public bool IsCanYiff(IMammal partner) // Здесь же то самое неявное использование\отправка оъекта?
+        public bool IsCanYiff(IMammal partner)
         {
             switch (Orientation)
             {
