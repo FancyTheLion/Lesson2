@@ -1,0 +1,14 @@
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\bin\Debug\net7.0\AnimalsApp.exe
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\bin\Debug\net7.0\AnimalsApp.deps.json
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\bin\Debug\net7.0\AnimalsApp.runtimeconfig.json
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\bin\Debug\net7.0\AnimalsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\bin\Debug\net7.0\AnimalsApp.pdb
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.AssemblyInfoInputs.cache
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.AssemblyInfo.cs
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.csproj.CoreCompileInputs.cache
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\refint\AnimalsApp.dll
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.pdb
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\AnimalsApp.genruntimeconfig.cache
+C:\Users\Fancy\Lessons\Lesson2\AnimalsApp\AnimalsApp\obj\Debug\net7.0\ref\AnimalsApp.dll
