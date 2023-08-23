@@ -1,4 +1,6 @@
-﻿namespace CarsApp
+﻿using CarsApp.Concrete;
+
+namespace CarsApp
 {
     internal class Program
     {
@@ -9,7 +11,16 @@
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            PassengerCar renault = new PassengerCar("Рено", 4, 1300, 4);
+            renault.DriveTo("Бар");
+            renault.PrintCapacity();
+
+
+            Truck volvo = new Truck("Вольво", 2, 9500, 18000);
+            volvo.DriveTo("Горица");
+            volvo.PrintCargeSize();
+
+            WaitForExit();
         }
 
         public static void WaitForExit()

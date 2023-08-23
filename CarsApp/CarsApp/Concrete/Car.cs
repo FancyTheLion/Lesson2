@@ -44,8 +44,7 @@ namespace CarsApp.Concrete
 
         public void DriveTo(string destination) // Машина такая то, едет туда то, столько колес, столько то окон
         {
-            Console.WriteLine(@$"Автомобиль марки {Brand}, имеющий {TheWeightOfTheCar} колеса и {NumberOfWindows} окон,
-двигается в {destination}");
+            Console.WriteLine($"Автомобиль марки {Brand}, имеющий {TheWeightOfTheCar} колеса и {NumberOfWindows} окон, двигается в {destination}");
         }
     }
 }

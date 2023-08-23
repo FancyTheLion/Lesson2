@@ -7,7 +7,7 @@ namespace CarsApp.Concrete
         /// <summary>
         /// Размер груза
         /// </summary>
-        public int CargeSize { get; private set; }
+        public int CargoSize { get; private set; }
 
         public Truck
         (
@@ -17,12 +17,12 @@ namespace CarsApp.Concrete
             int cargeSize
         ) : base(brand, numberOfWindows, theWeightOfTheCar)
         {
-            cargeSize = CargeSize;
+            CargoSize = cargeSize;
         }
 
         public void PrintCargeSize()
         {
-            Console.WriteLine($"Грузовой автомобиль вмещает в себя груза: { CargeSize }");
+            Console.WriteLine($"Грузовой автомобиль вмещает в себя груза: { CargoSize }");
         }
     }
 }
